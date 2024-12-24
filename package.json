@@ -1,6 +1,6 @@
 {
   "name": "internal-materio-nuxtjs-admin-template",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "private": true,
   "type": "module",
   "scripts": {
@@ -51,7 +51,8 @@
     "vue3-apexcharts": "^1.4.4",
     "vue3-perfect-scrollbar": "^1.6.1",
     "vuetify": "3.4.4",
-    "webfontloader": "^1.6.28"
+    "webfontloader": "^1.6.28",
+    "nuxt": "^3.9.0"
   },
   "devDependencies": {
     "@antfu/eslint-config-vue": "^0.43.1",
